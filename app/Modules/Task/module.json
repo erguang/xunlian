@@ -1,8 +1,0 @@
-{
-	"name": "Task",
-	"slug": "task",
-	"namespace": "Task",
-	"version": "1.0",
-	"description": "This is the description for the Task module.",
-	"enabled": true
-}
